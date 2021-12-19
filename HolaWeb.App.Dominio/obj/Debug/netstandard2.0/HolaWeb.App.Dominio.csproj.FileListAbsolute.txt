@@ -1,0 +1,17 @@
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.deps.json
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.dll
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.pdb
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.csprojAssemblyReference.cache
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.AssemblyInfoInputs.cache
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.AssemblyInfo.cs
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.dll
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.pdb
+C:\Saludos22\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.deps.json
+C:\Saludos22\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.dll
+C:\Saludos22\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.pdb
+C:\Saludos22\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.csprojAssemblyReference.cache
+C:\Saludos22\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.AssemblyInfoInputs.cache
+C:\Saludos22\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.AssemblyInfo.cs
+C:\Saludos22\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Saludos22\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.dll
+C:\Saludos22\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.pdb

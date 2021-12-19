@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eNU9UltbKQHmXje57MCIaxg209Rs+tNn8RdLpgxY2kur9n+H58bYiUMVbITizSiXOLnvUUTGpWaaxFqVyv0cvg==",
+  "success": true,
+  "projectFilePath": "C:\\Saludos22\\MisionTIC-2021-Ciclo3-WF\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samur\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

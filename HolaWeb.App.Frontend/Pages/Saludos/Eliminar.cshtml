@@ -1,0 +1,12 @@
+﻿@page
+@model HolaWeb.App.Frontend.Pages.EliminarModel
+@{
+}
+<h1>Se va a eliminar el registro</h1>
+<h1>@Model.Saludo.EnEspañol</h1>
+<h2>@Model.Saludo.EnIngles</h2>
+<h3>@Model.Saludo.EnItaliano</h3>
+<form method="post">
+    <input type="hidden" asp-for="Saludo.Id">
+    <button type="submit" class="btn btn-primary">Confirmar Eliminar</button>
+</form>
